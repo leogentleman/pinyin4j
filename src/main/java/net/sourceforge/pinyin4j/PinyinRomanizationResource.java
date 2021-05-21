@@ -50,6 +50,7 @@ class PinyinRomanizationResource {
     return pinyinMappingDoc;
   }
 
+
   /**
    * Private constructor as part of the singleton pattern.
    */
